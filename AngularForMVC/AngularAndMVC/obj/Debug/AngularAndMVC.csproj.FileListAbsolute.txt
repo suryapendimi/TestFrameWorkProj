@@ -1,0 +1,64 @@
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.dll.config
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.pdb
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\Antlr3.Runtime.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\Newtonsoft.Json.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Net.Http.Formatting.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Helpers.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Http.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Http.WebHost.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Mvc.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Optimization.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Razor.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Deployment.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Razor.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\WebGrease.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Helpers.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Mvc.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Optimization.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Razor.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Deployment.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Razor.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\Antlr3.Runtime.pdb
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\Newtonsoft.Json.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Net.Http.Formatting.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Http.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\bin\System.Web.Http.WebHost.xml
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.csprojResolveAssemblyReference.cache
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.pdb
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.dll.config
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\AngularAndMVC.pdb
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\Antlr3.Runtime.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\Newtonsoft.Json.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Net.Http.Formatting.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Helpers.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Http.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Http.WebHost.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Mvc.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Optimization.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Razor.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\WebGrease.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Helpers.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Mvc.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Optimization.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Razor.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\Antlr3.Runtime.pdb
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\Newtonsoft.Json.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Net.Http.Formatting.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Http.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\bin\System.Web.Http.WebHost.xml
+E:\Projects\Web\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.csprojResolveAssemblyReference.cache
+E:\Projects\Web\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.dll
+E:\Projects\Web\AngularForMVC\AngularAndMVC\obj\Debug\AngularAndMVC.pdb

@@ -1,0 +1,15 @@
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularPrimer\AngularPrimer\bin\AngularPrimer.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularPrimer\AngularPrimer\bin\AngularPrimer.pdb
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularPrimer\AngularPrimer\obj\Debug\AngularPrimer.csprojResolveAssemblyReference.cache
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularPrimer\AngularPrimer\obj\Debug\AngularPrimer.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularPrimer\AngularPrimer\obj\Debug\AngularPrimer.pdb
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularPrimer\bin\AngularPrimer.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularPrimer\bin\AngularPrimer.pdb
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.csprojResolveAssemblyReference.cache
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.dll
+F:\Presentations\User Groups\Angular For MVC Developers\Source\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.pdb
+E:\Projects\Web\AngularForMVC\AngularPrimer\bin\AngularPrimer.dll
+E:\Projects\Web\AngularForMVC\AngularPrimer\bin\AngularPrimer.pdb
+E:\Projects\Web\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.csprojResolveAssemblyReference.cache
+E:\Projects\Web\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.dll
+E:\Projects\Web\AngularForMVC\AngularPrimer\obj\Debug\AngularPrimer.pdb

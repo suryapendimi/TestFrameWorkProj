@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Products";
+}
+@section scripts {
+    <script src="~/App/Product/App.js"></script>
+    <script src="~/App/Product/ViewModels/RootViewModel.js"></script>
+    <script src="~/App/Product/ViewModels/ProductHomeViewModel.js"></script>
+    <script src="~/App/Product/ViewModels/ProductListViewModel.js"></script>
+    <script src="~/App/Product/ViewModels/ProductViewModel.js"></script>
+}
+@section jsCode {
+    angular.bootstrap(document.getElementById("product"), ['product']);
+}
+
+<div data-ng-app="product" id="product" data-ng-controller="rootViewModel">
+    <h2>{{ pageHeading }}</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <button class="btn btn-primary" ng-click="productList()">Product List</button>
+        </div>
+        <div class="col-md-4">
+            <button class="btn btn-primary" ng-click="showProduct()">Product</button>&nbsp;
+            <input type="text" ng-model="productService.productId" />
+        </div>
+    </div>
+    <hr />
+    <div ng-view></div>
+</div>
