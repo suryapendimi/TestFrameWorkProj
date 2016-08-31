@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTest", "MVCTest\MVCTest.csproj", "{11BD2A1A-34C6-43BE-9554-3774703F8034}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{F1CA1F1C-4684-4ABE-9773-9DA9E79631BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTest.Test1.UnitTests", "MVCTest.Test1.UnitTests\MVCTest.Test1.UnitTests.csproj", "{50D065AA-FA85-47B9-A614-4335FC5ADD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11BD2A1A-34C6-43BE-9554-3774703F8034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BD2A1A-34C6-43BE-9554-3774703F8034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BD2A1A-34C6-43BE-9554-3774703F8034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BD2A1A-34C6-43BE-9554-3774703F8034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D065AA-FA85-47B9-A614-4335FC5ADD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D065AA-FA85-47B9-A614-4335FC5ADD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D065AA-FA85-47B9-A614-4335FC5ADD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D065AA-FA85-47B9-A614-4335FC5ADD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50D065AA-FA85-47B9-A614-4335FC5ADD43} = {F1CA1F1C-4684-4ABE-9773-9DA9E79631BD}
+	EndGlobalSection
+EndGlobal
